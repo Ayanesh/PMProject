@@ -15,6 +15,7 @@ In this Application, you can create your own profile and can login into your ear
 Technolgies used in this project are:
 * JAVA
 * SERVLET
+* HTML
 * JSP
 * ORACLE DATABASE
 
