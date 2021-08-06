@@ -1,5 +1,5 @@
 # Profile-Management - Web Applicaiton
-###### Web Application created with Servlet, Jsp & Oracle Database
+###### This Web Application created with Servlet, Jsp & Oracle Database
 # Table of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)
